@@ -54,3 +54,7 @@ student-grade-calculator/
 Issue → branch → edit → stage → commit → push → Pull Request → GitHub Actions → review → merge → close issue.
 
 The repository intentionally starts simple so that students can focus on version control and CI/CD concepts.
+
+## Student Information
+Name: Thanisha
+Student ID: 25191155
