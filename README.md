@@ -58,3 +58,6 @@ The repository intentionally starts simple so that students can focus on version
 ## Student Information
 Name: Thanisha
 Student ID: 25191155
+
+## Student Description
+This project demonstrates basic Git and GitHub workflows,including commits,branches,issues,pull requests and Github Actions.
